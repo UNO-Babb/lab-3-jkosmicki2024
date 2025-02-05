@@ -11,7 +11,7 @@ def main():
   tempf = input("Enter a degree in farenheit")
   tempf = int(tempf)
   tempc = (tempf - 32) * 5/9
-  tempc = round(tempc , 1)
+  tempc = round(tempc , 2)
 
   print(tempf, "is ", tempc, "in degrees celsius.")
 if __name__ == '__main__':
