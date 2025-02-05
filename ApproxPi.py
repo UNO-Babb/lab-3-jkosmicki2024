@@ -1,7 +1,7 @@
 #ApproxPi.py
-#Name:
-#Date:
-#Assignment:
+#Name:Jacob Kosmicki
+#Date:2/5/2025
+#Assignment: Approximating pi
 import math
 import time
 
